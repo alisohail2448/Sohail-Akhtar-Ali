@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sohail-Akhtar-Ali/static/css/main.d763e519.css",
+    "main.js": "/Sohail-Akhtar-Ali/static/js/main.6b5032aa.js",
+    "static/js/787.67b99310.chunk.js": "/Sohail-Akhtar-Ali/static/js/787.67b99310.chunk.js",
+    "static/media/logo_sub.png": "/Sohail-Akhtar-Ali/static/media/logo_sub.3508a8e4c09d3f80f795.png",
+    "static/media/helvetica-neu.ttf": "/Sohail-Akhtar-Ali/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/Sohail-Akhtar-Ali/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/Sohail-Akhtar-Ali/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/Sohail-Akhtar-Ali/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff": "/Sohail-Akhtar-Ali/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/Sohail-Akhtar-Ali/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Sohail-Akhtar-Ali/index.html",
+    "main.d763e519.css.map": "/Sohail-Akhtar-Ali/static/css/main.d763e519.css.map",
+    "main.6b5032aa.js.map": "/Sohail-Akhtar-Ali/static/js/main.6b5032aa.js.map",
+    "787.67b99310.chunk.js.map": "/Sohail-Akhtar-Ali/static/js/787.67b99310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d763e519.css",
+    "static/js/main.6b5032aa.js"
+  ]
+}
